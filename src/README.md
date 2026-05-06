@@ -32,13 +32,11 @@ It performs data cleaning, aggregation, and visualization to uncover spending pa
 
 ---
 
-## 🧠 Key Insights
-
-* Majority of spending comes from categories like bills and shopping
-* Spending trends vary month-to-month
-* Most expenses fall in mid-range values with some high outliers
-* Data preprocessing is critical for accurate visualization
-
+📊 Key Insights
+  Spending peaks in January and drops significantly in February
+  Bills and shopping together account for ~44% of total expenses
+  Most transactions fall within mid-range values, indicating controlled spending behavior
+  Entertainment has the lowest share, suggesting minimal discretionary spending
 ---
 
 ## 🛠️ Tech Stack
